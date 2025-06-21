@@ -1,0 +1,2 @@
+# Se llama al script pasando el nombre del archvio txt como argumento
+# Así: python visa_predict_script.py row_data.txt
